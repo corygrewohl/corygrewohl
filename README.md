@@ -4,10 +4,10 @@ Hi, I'm Cory. I'm a currently a computer science student at California Baptist U
 Near the end of my junior year of college, I had concluded a semester of working hard in React Native for a design project, and I had such a great time I decided to specialize in web development: specifically front-end, but I am hoping to transition to full stack at some point! So in May I started working through the [The Odin Project](www.theodinproject.com) in order to become as proficient as I could in HTML, CSS, Javascript and React, and am continuing to work through their curriculum building cool projects along the way.
 
 ### Currently Working On
-[(Admin Dashboard) => {creating a task dashboard to practice my HTML/CSS skills in relation to grid layouts}](https://github.com/corygrewohl/admin-dashboard)
+[(Admin Dashboard)](https://github.com/corygrewohl/admin-dashboard) => {creating a task dashboard to practice my HTML/CSS skills in relation to grid layouts}
 
 ### Favorite Projects
-[(Tic-Tac-Toe) => {A tic-tac-toe recreation}](https://github.com/corygrewohl/tic-tac-toe)
+[(Tic-Tac-Toe)](https://github.com/corygrewohl/tic-tac-toe) => {A tic-tac-toe recreation}
 
 ### Skills
 
