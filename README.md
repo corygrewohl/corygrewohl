@@ -10,7 +10,7 @@ Near the end of my junior year of college, I had concluded a semester of working
 [(Tic-Tac-Toe)](https://github.com/corygrewohl/tic-tac-toe) => {A tic-tac-toe recreation}
 
 ### Skills
-
+<img src="https://user-images.githubusercontent.com/70291812/178831454-37828886-dd14-4cc3-8ea3-32b90a9a2ec9.png" alt="html5" width="50" height="50">
 ### Social Media
 <!--
 **corygrewohl/corygrewohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
