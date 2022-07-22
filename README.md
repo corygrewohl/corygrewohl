@@ -18,16 +18,18 @@ Near the end of my junior year of college, I had concluded a semester of working
 <img src="https://user-images.githubusercontent.com/70291812/178833957-da73c7df-63a4-4f2e-97f8-aa92c517696d.png" alt="figma" width="50" height="50">
 </div>
 
-### Things I'm interested in getting better at/learning
--React/React Native
--Typescript
--Sass/SCSS
--Tailwind
--AWS
--Next.js
--Redux
--Backend Languages/Frameworks
--More!
+### Things I'm interested in getting better at/Learning
+<div>
+  <p>-React/React Native</p>
+  <p><p>-Typescript</p>
+  <p>-Sass/SCSS</p>
+  <p>-Tailwind</p>
+  <p>-AWS</p>
+  <p>-Next.js</p>
+  <p>-Redux</p>
+  <p>-Backend Languages/Frameworks</p>
+<p>-More!</p>
+</div>
 
 ### Social Media
 <!--
