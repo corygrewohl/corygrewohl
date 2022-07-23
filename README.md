@@ -27,6 +27,7 @@ Near the end of my junior year of college, I had concluded a semester of working
   <p>-AWS</p>
   <p>-Next.js</p>
   <p>-Redux</p>
+  <p>-Material UI</p>
   <p>-Backend Languages/Frameworks</p>
 <p>-More!</p>
 </div>
