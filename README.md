@@ -4,7 +4,7 @@ Hi, I'm Cory. I'm a currently a computer science student at California Baptist U
 Near the end of my junior year of college, I had concluded a semester of working hard in React Native for a design project, and I had such a great time I decided to specialize in web development: specifically front-end, but I am hoping to transition to full stack at some point! So in May I started working through the [The Odin Project](www.theodinproject.com) in order to become as proficient as I could in HTML, CSS, Javascript and React, and am continuing to work through their curriculum building cool projects along the way.
 
 ### Currently Working On
-[(CV Application)](https://github.com/corygrewohl/cv-application) => {a resume generator built in React and Sass}
+[(Memory Card Game)](https://github.com/corygrewohl/memory-card) => {a memory testing game built in Typescript, React, and Sass}
 
 ### Favorite Projects
 [(Todo List)](https://github.com/corygrewohl/todo-list) => {A todo list app}
@@ -23,7 +23,8 @@ Near the end of my junior year of college, I had concluded a semester of working
 ### Things I'm interested in getting better at/Learning
 <div>
   <p>-React/React Native</p>
-  <p><p>-Typescript</p>
+  <p>-Typescript</p>
+  <p>-Vite</p>
   <p>-Tailwind</p>
   <p>-AWS</p>
   <p>-Next.js</p>
