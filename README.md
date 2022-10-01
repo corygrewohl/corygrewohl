@@ -8,6 +8,7 @@ Near the end of my junior year of college, I had concluded a semester of working
 
 ### Favorite Projects
 [(Memory Card Game)](https://github.com/corygrewohl/memory-card) => {a memory testing game built in Typescript, React, and Sass}
+
 [(Todo List)](https://github.com/corygrewohl/todo-list) => {A todo list app}
 
 ### Skills
