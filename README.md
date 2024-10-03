@@ -1,3 +1,4 @@
+<!--
 ### About Me
 Hi, I'm Cory. I'm a currently a computer science student at California Baptist University in my senior year. I have been interested in computers and programming for a long time now (I remember in middle school learning the basics of Java!).
 
@@ -49,7 +50,7 @@ Near the end of my junior year of college, I had concluded a semester of working
 [<img src="https://user-images.githubusercontent.com/70291812/202317818-97b32521-1505-49a5-8e27-68f4a5cc7c9c.png" alt="styled-componenets" width="50" height="50">](https://www.linkedin.com/in/cory-grewohl/)
 [<img src="https://user-images.githubusercontent.com/70291812/202316935-3dd4f09d-bb54-4d70-bef3-96d4548fbeb9.png" alt="styled-componenets" width="50" height="50">](https://www.instagram.com/cory_greywhale/)
 
-<!--
+
 **corygrewohl/corygrewohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
