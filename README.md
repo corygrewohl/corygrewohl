@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm reformed from my college days: instead of loving React, JS, and front end development, I love .NET, SQL, Golang, and starting to learn Rust. HTML is the best programming language but I can tolerate Angular. I'll tell you what I can't tolerate: Python. Also, Visual Studio
+I'm reformed from my college days: instead of loving React, JS, and front end development, I love .NET, SQL, Golang, and I'm a poser Rust developer. HTML is the best programming language, but I can tolerate Angular. I'll tell you what I can't tolerate: Python. Also, Visual Studio
